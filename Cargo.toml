@@ -1,0 +1,9 @@
+[package]
+name = "ftdi"
+version = "0.1.0"
+authors = ["Alex Zepeda <alex@inferiorhumanorgans.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2"
+libusb = "0.3"
